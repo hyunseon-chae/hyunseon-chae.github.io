@@ -20,7 +20,6 @@
 
 
 
-![aws](D:\공부\github\posts\images\aws.png)
 
 
 
