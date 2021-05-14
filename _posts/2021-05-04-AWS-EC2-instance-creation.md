@@ -96,7 +96,7 @@
 2. 인스턴스 시작 클릭
 
    - 단계 1: Amazon Machine Image(AMI) 선택
-     - ubuntu 16.04 선택
+     - ubuntu 16.04 선택(Deep Learning AMI (Ubuntu 18.04) Version 43.0)
    - 단계 2: 인스턴스 유형 선택
      - p2.xlarge 선택
 
