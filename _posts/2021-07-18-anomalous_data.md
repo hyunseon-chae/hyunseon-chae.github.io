@@ -5,9 +5,11 @@
 
 [^ 이상점(outliers)]: 다른 자료와는 극단적으로 다른 값, 즉 유달리 높거나 낮은 값을 보이는 것
 
+# Anomalous Data
 
 
-# **비정상 데이터(anomalous data) 분석 기술**
+
+## **비정상 데이터(anomalous data) 분석 기술**
 
 
 
