@@ -25,9 +25,9 @@
 
 > 어떤 단일한 값의 중간값에서 멀리 떨어져 있는 값을 제거하는 방법
 
+- 예제 : https://github.com/hyunseon-chae/hyunseon-chae.github.io/blob/master/_posts/2021-07-18_univariate.ipynb
 
 
-[단변량 방법 코드 링크]: https://github.com/hyunseon-chae/hyunseon-chae.github.io/blob/master/_posts/2021-07-18_univariate.ipynb
 
 
 
@@ -47,7 +47,7 @@
 
   - K Nearest Neighbor 을 이용하여 새로운 데이터를 생성
 
-  - [SMOTE 예시]: https://github.com/hyunseon-chae/hyunseon-chae.github.io/blob/master/_posts/2021-07-18_SMOTE.ipynb
+  - 예제 : https://github.com/hyunseon-chae/hyunseon-chae.github.io/blob/master/_posts/2021-07-18_SMOTE.ipynb
 
     
 
@@ -70,8 +70,9 @@
     - ![Adaboost(에이다부스트)](https://blog.kakaocdn.net/dn/b4o4Uv/btqDsaSrjoM/sKGQ5I1CuPNgUJ8RJ54mK1/img.png)
   - Gradient Boosting
     - ![머신러닝 앙상블 부스팅(boosting) - Adaboost, Gradient Boosting](https://blog.kakaocdn.net/dn/bZaE8F/btqzOlQjTa3/Yadk0nZsSokfCd2OUXUM3k/img.jpg)
+    - 예제 : https://github.com/hyunseon-chae/pymldg-rev/blob/master/4%EC%9E%A5/4.3_%EC%95%99%EC%83%81%EB%B8%94%ED%95%99%EC%8A%B5_4.4_%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8_4.5_GBM.ipynb 
 
-- [앙상블 예제]: https://github.com/hyunseon-chae/pymldg-rev/blob/master/4%EC%9E%A5/4.3_%EC%95%99%EC%83%81%EB%B8%94%ED%95%99%EC%8A%B5_4.4_%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8_4.5_GBM.ipynb
+  
 
   
 
