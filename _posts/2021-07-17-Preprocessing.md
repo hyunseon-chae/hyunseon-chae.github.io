@@ -1,9 +1,7 @@
----
-From github(https://github.com/PacktPublishing/Generative-Adversarial-Networks-Cookbook)
-데이터 전치리란 일반적으로 데이터를 읽고 도메인에서 데이터를 사용할 수 있도록 기본적인 작업을 수행하는 단계를 의미한다.
----
+# 데이터 전처리
 
-## 데이터 전처리
+> From github(https://github.com/PacktPublishing/Generative-Adversarial-Networks-Cookbook)
+> 데이터 전치리란 일반적으로 데이터를 읽고 도메인에서 데이터를 사용할 수 있도록 기본적인 작업을 수행하는 단계를 의미한다.
 
 
 
