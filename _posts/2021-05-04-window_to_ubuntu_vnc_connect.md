@@ -43,18 +43,27 @@ ubuntu@ip-(ip주소):~$ vi ~/.vnc/xstartup
 아래 내용으로 변경한다.
 
 ```
-#!/bin/sh
-def
-export XKL_XMODMAP_DISABLE=1
-unset SESSION_MANAGER
-unset DBUS_SESSION_BUS_ADDRESS
+#!/bin/sh 
+# Uncomment the following two lines for normal desktop: 
+# unset SESSION_MANAGER 
+# exec /etc/X11/xinit/xinitrc 
+[ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup 
+[ -r $HOME/.Xresources ] && xrdb $HOME/.Xresources 
+xsetroot -solid grey 
+vncconfig -iconic & 
+x-terminal-emulator -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" & 
+x-window-manager & 
+exec /usr/bin/startxfce4 &
 
-gnome-panel &
-gnome-settings-daemon &
-metacity &
-nautilus &
-
-gnome-terminal &
+#!/bin/sh 
+autocutsel -fork 
+xrdb $HOME/.Xresources 
+xsetroot -solid grey 
+export XKL_XMODMAP_DISABLE=1 
+export XDG_CURRENT_DESKTOP="GNOME-Flashback:Unity" 
+export XDG_MENU_PREFIX="gnome-flashback-" 
+unset DBUS_SESSION_BUS_ADDRESS 
+gnome-session --session=gnome-flashback-metacity --disable-acceleration-check --debug &
 ```
 
 
