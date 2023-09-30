@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to blog"
+categories: GAN
+---
+
+
 # AWS EC2 인스턴스 생성
 
 

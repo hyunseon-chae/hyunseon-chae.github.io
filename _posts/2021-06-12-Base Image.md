@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to blog"
+categories: GAN
+---
+
+
 # 환경 구축
 
 

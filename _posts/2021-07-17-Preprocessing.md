@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to blog"
+categories: GAN
+---
+
+
 # 데이터 전처리
 
 > From github(https://github.com/PacktPublishing/Generative-Adversarial-Networks-Cookbook)

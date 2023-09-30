@@ -1,4 +1,11 @@
 ---
+layout: post
+title:  "Welcome to blog"
+categories: GAN
+---
+
+
+---
 비정상 데이터는 고르게 분산되지 않거나 쉽게 분리될 위험이 존재함.
 따라서 데이터의 적절한 분포가 중요한 데이터셋에서는 이상점(outliers)을 찾는게 중요
 ---
