@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to blog"
+title:  "우분투 VNC 서버 설치 및 접속"
 categories: GAN
 ---
 

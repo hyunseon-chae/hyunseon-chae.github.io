@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to blog"
+title:  "데이터 전처리"
 categories: GAN
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to blog"
+title:  "비정상 데이터 분석"
 categories: GAN
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to blog"
+title:  "AWS EC2 인스턴스 생성"
 categories: GAN
 ---
 
