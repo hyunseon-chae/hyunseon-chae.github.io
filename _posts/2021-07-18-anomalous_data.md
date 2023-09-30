@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "비정상 데이터 분석"
 categories: GAN
 ---

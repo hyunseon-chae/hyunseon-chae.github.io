@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "GAN 환경 구축(Base Image)"
 categories: GAN
 ---
