@@ -2,6 +2,7 @@
 layout: single
 title:  "AWS EC2 인스턴스 생성"
 categories: GAN
+toc: true
 ---
 
 

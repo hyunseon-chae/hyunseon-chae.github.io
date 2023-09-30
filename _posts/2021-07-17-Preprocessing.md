@@ -2,6 +2,7 @@
 layout: single
 title:  "데이터 전처리"
 categories: GAN
+toc: true
 ---
 
 
